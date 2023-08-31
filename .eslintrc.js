@@ -19,5 +19,5 @@ module.exports = {
     },
   ],
 
-  ignorePatterns: ['!.eslintrc.js', '!.prettierrc.js'],
+  ignorePatterns: ['!.eslintrc.js', '!.prettierrc.js', '/docs'],
 };
